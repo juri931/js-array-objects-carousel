@@ -26,12 +26,7 @@ body{
   position: relative;
 }
 
-.dNone{
-  display: none;
-}
-
-.slide span{
-  position: absolute;
+span{
   background-color: rgb(0, 0, 0);
   color: white;
   top: 50px;
