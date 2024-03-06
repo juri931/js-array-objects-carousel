@@ -23,6 +23,19 @@ body{
   height: 80%;
   display: none;
   object-fit: cover;
+  position: relative;
+}
+
+.dNone{
+  display: none;
+}
+
+.slide span{
+  position: absolute;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  top: 50px;
+  left: 5px;
 }
 
 img.displaySlide{
